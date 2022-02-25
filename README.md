@@ -1,16 +1,12 @@
-# cadastroprodutos
+<h2> Cadastro de Produtos </h2>
+<h3>O devido projeto possibilita os usuários se cadastrarem ao aplicativo, efetuarem login,
+Cadastrar, Editar e Remover um Cadatro, o famoso (CRUD) </h3>
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>O aplicativo em questão foi desenvolvido utulizando as seguintes ferramentas:</h3>
+<ul>
+  <li>Flutter: Framework de desenvolvimento</li>
+  <li>Mobx: Gerenciamneto de Estado</li>
+  <li>Modular: Structure</li>
+  <li>Patterns: Clean Architecture, Null Safety, MVC, DDD.</li>
+  <li>SQLite: Bando de Dados, armazenamento local</li>
+</ul>
